@@ -12,7 +12,7 @@ const PropertiesPageByAddressMls = () => {
         {propertiesData.map((property) => (
           <div key={property.id} className="properties-grid__item-wrap">
             <a
-              href={`/testing-website-mpa#/properties-address-mls/${formatAddress(property.address)}-${formatMLSId(
+              href={`/testing-website-mpa-staging#/properties-address-mls/${formatAddress(property.address)}-${formatMLSId(
                 property.mls_id || 'null' // Use 'null' if mls_id is undefined
               )}`}
               className="properties-grid__item"
