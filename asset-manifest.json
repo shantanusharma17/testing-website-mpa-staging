@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testing-website-mpa-staging/static/css/main.94779203.css",
+    "main.js": "/testing-website-mpa-staging/static/js/main.8bc97490.js",
+    "index.html": "/testing-website-mpa-staging/index.html",
+    "main.94779203.css.map": "/testing-website-mpa-staging/static/css/main.94779203.css.map",
+    "main.8bc97490.js.map": "/testing-website-mpa-staging/static/js/main.8bc97490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94779203.css",
+    "static/js/main.8bc97490.js"
+  ]
+}
